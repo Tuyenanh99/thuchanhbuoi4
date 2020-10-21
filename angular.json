@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TH04"
+    }
+  },
+  "defaultProject": "TH04",
+  "cli": {
+    "analytics": "bb296916-5b73-4f27-ac80-0e019ed8e61a"
+  }
 }
